@@ -18,10 +18,10 @@
 
 
 # -- Project information -----------------------------------------------------
-from recommonmark.parser import CommonMarkParser
-source_parsers = {
-    '.md': CommonMarkParser,
-}
+#from recommonmark.parser import CommonMarkParser
+#source_parsers = {
+#    '.md': CommonMarkParser,
+#}
 
 project = 'System'
 copyright = '2019, 吴贞娴'
